@@ -1,0 +1,11 @@
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Model\bin\Release\net8.0\pruebafinalApi.Model.deps.json
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Model\bin\Release\net8.0\pruebafinalApi.Model.dll
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Model\bin\Release\net8.0\pruebafinalApi.Model.pdb
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Model\obj\Release\net8.0\pruebafinalApi.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Model\obj\Release\net8.0\pruebafinalApi.Model.AssemblyInfoInputs.cache
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Model\obj\Release\net8.0\pruebafinalApi.Model.AssemblyInfo.cs
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Model\obj\Release\net8.0\pruebafinalApi.Model.csproj.CoreCompileInputs.cache
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Model\obj\Release\net8.0\pruebafinalApi.Model.dll
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Model\obj\Release\net8.0\refint\pruebafinalApi.Model.dll
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Model\obj\Release\net8.0\pruebafinalApi.Model.pdb
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Model\obj\Release\net8.0\ref\pruebafinalApi.Model.dll

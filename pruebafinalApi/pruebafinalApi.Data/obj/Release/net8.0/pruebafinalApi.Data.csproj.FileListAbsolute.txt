@@ -1,0 +1,15 @@
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Data\bin\Release\net8.0\pruebafinalApi.Data.deps.json
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Data\bin\Release\net8.0\pruebafinalApi.Data.dll
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Data\bin\Release\net8.0\pruebafinalApi.Data.pdb
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Data\bin\Release\net8.0\pruebafinalApi.Model.dll
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Data\bin\Release\net8.0\pruebafinalApi.Model.pdb
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Data\obj\Release\net8.0\pruebafinalApi.Data.csproj.AssemblyReference.cache
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Data\obj\Release\net8.0\pruebafinalApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Data\obj\Release\net8.0\pruebafinalApi.Data.AssemblyInfoInputs.cache
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Data\obj\Release\net8.0\pruebafinalApi.Data.AssemblyInfo.cs
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Data\obj\Release\net8.0\pruebafinalApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Data\obj\Release\net8.0\pruebafi.60BE4F8B.Up2Date
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Data\obj\Release\net8.0\pruebafinalApi.Data.dll
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Data\obj\Release\net8.0\refint\pruebafinalApi.Data.dll
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Data\obj\Release\net8.0\pruebafinalApi.Data.pdb
+C:\Users\manrique\source\repos\pruebafinalApi\pruebafinalApi.Data\obj\Release\net8.0\ref\pruebafinalApi.Data.dll
